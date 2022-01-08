@@ -5,7 +5,7 @@ Aplicação que gerencia um estacionamento. Pode-se fazer operações como cadas
 A versão demo pode ser acessada [aqui](https://csb-x47cr.netlify.app)
 
 # API
-A API pode ser acessada [aqui] (https://github.com/AnaTaves/Estacionamento-api)
+A API pode ser acessada [aqui](https://github.com/AnaTaves/Estacionamento-api)
 
 # Tecnologias Utilizadas
 - React
